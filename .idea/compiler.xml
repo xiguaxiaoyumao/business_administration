@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="weblaf-plugin" />
+        <module name="weblaf-ninepatch-editor" />
+        <module name="weblaf-ui" />
+        <module name="weblaf-core" />
+        <module name="weblaf-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="weblaf-core" target="1.6" />
+      <module name="weblaf-demo" target="1.6" />
+      <module name="weblaf-ninepatch-editor" target="1.6" />
+      <module name="weblaf-parent" target="1.5" />
+      <module name="weblaf-plugin" target="1.6" />
+      <module name="weblaf-ui" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

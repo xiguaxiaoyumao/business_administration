@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/business_administration.iml" filepath="$PROJECT_DIR$/business_administration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weblaf-master/modules/core/weblaf-core.iml" filepath="$PROJECT_DIR$/weblaf-master/modules/core/weblaf-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weblaf-master/modules/demo/weblaf-demo.iml" filepath="$PROJECT_DIR$/weblaf-master/modules/demo/weblaf-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weblaf-master/modules/ninepatch-editor/weblaf-ninepatch-editor.iml" filepath="$PROJECT_DIR$/weblaf-master/modules/ninepatch-editor/weblaf-ninepatch-editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weblaf-master/weblaf-parent.iml" filepath="$PROJECT_DIR$/weblaf-master/weblaf-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weblaf-master/modules/plugin/weblaf-plugin.iml" filepath="$PROJECT_DIR$/weblaf-master/modules/plugin/weblaf-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weblaf-master/modules/ui/weblaf-ui.iml" filepath="$PROJECT_DIR$/weblaf-master/modules/ui/weblaf-ui.iml" />
+    </modules>
+  </component>
+</project>
